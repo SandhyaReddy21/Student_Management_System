@@ -9,22 +9,22 @@
     <br />
   <sup>Copyright (c) 2023 Sandhya Sampate</sup>
   
-  Licensed Under The  [MIT License](https://github.com/PRASAD-DANGARE/Student_Management_System/blob/main/LICENSE)
+  Licensed Under The  [MIT License](https://github.com/SandhyaReddy21/Student_Management_System/blob/main/LICENSE)
   
-  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/PRASAD-DANGARE/Student_Management_System/blob/main/LICENSE)
-  ![GitHub language count](https://img.shields.io/github/languages/count/PRASAD-DANGARE/Student_Management_System?color=g&label=Languages)
+  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/SandhyaReddy21/Student_Management_System/blob/main/LICENSE)
+  ![GitHub language count](https://img.shields.io/github/languages/count/SandhyaReddy21/Student_Management_System?color=g&label=Languages)
   ![Platforms](https://img.shields.io/badge/Platforms-Linux_Windows-yellowgreen?style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/PRASAD-DANGARE/Student_Management_System?color=9cf)
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PRASAD-DANGARE/Student_Management_System)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/PRASAD-DANGARE/Student_Management_System)
-  ![Lines of code](https://img.shields.io/tokei/lines/github/PRASAD-DANGARE/Student_Management_System?color=g&label=No%20Of%20Lines)
-  ![GitHub contributors](https://img.shields.io/github/contributors/PRASAD-DANGARE/Student_Management_System?color=red)
-  ![GitHub User's stars](https://img.shields.io/github/stars/PRASAD-DANGARE?color=yellow)
-  [![Drone](https://drone.grafana.net/api/badges/grafana/grafana/status.svg)](https://github.com/PRASAD-DANGARE/Student_Management_System/blob/main/Student_DS.cpp)
-  ![GitHub branch checks state](https://img.shields.io/github/checks-status/PRASAD-DANGARE/Student_Management_System/main?color=r)
-  ![GitHub all releases](https://img.shields.io/github/downloads/PRASAD-DANGARE/Student_Management_System/total)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/PRASAD-DANGARE/Student_Management_System?color=purple)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/PRASAD-DANGARE/Student_Management_System?color=yellow)
+  ![GitHub top language](https://img.shields.io/github/languages/top/SandhyaReddy21/Student_Management_System?color=9cf)
+  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SandhyaReddy21/Student_Management_System)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/SandhyaReddy21/Student_Management_System)
+  ![Lines of code](https://img.shields.io/tokei/lines/github/SandhyaReddy21/Student_Management_System?color=g&label=No%20Of%20Lines)
+  ![GitHub contributors](https://img.shields.io/github/contributors/SandhyaReddy21/Student_Management_System?color=red)
+  ![GitHub User's stars](https://img.shields.io/github/stars/SandhyaReddy21?color=yellow)
+  [![Drone](https://drone.grafana.net/api/badges/grafana/grafana/status.svg)](https://github.com/SandhyaReddy21/Student_Management_System/blob/main/Student_DS.cpp)
+  ![GitHub branch checks state](https://img.shields.io/github/checks-status/SandhyaReddy21/Student_Management_System/main?color=r)
+  ![GitHub all releases](https://img.shields.io/github/downloads/SandhyaReddy21/Student_Management_System/total)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/SandhyaReddy21/Student_Management_System?color=purple)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/SandhyaReddy21/Student_Management_System?color=yellow)
 
 </div>
 
